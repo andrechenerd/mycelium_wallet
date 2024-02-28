@@ -1,0 +1,1 @@
+ /home/strozer/flutter_projects/mycelium2/.dart_tool/flutter_build/ac8232a4aefef5111d8e7eda480f4bea/native_assets.yaml: 
